@@ -19,7 +19,6 @@ class _CategoryMealsScreenState extends State<CategoryMealsScreen> {
 
   @override
   void initState() {
-
     super.initState();
   }
 
