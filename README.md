@@ -1,10 +1,9 @@
+# Food Menu Flutter
 
-# food-menu-flutter
-## Developed by mahdi razzaghi ghaleh
+A simple mobile app by flutter
 
-a simple mobile app by flutter
+| Categories | Food | Food details |
+| :---: | :---: | :---: |
+| ![](screenshots/Screenshot_1622619155.png) | ![](screenshots/Screenshot_1622619168.png)  | ![](screenshots/Screenshot_1622619194.png) |
 
-
-<img src="screenshots/Screenshot_1622619155.png" width="300">
-<img src="screenshots/Screenshot_1622619168.png" width="300">
-<img src="screenshots/Screenshot_1622619194.png" width="300">
+Developed by mahdi razzaghi ghaleh
